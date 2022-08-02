@@ -9,7 +9,7 @@ def start(updater,context):
  updater.message.reply_text('''Hi iam welcome messanger bot 
 Add me to your group 
  
- Made with Love ❤️ by @tamilan444
+ Made with Love ❤️ by @iamgrootbotz
 
   ''')
 def help(updater,context):
